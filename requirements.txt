@@ -1,0 +1,15 @@
+tensorflow
+keras
+pandas
+numpy
+jupyter
+notebook
+tqdm
+opencv-contrib-python
+
+Work Flow:
+1. col images (location) 
+   col label (what the picture shows)
+
+2. Load_images() in grey scale    (image.greyscale=True)
+
